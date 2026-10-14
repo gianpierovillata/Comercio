@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="comercioapi/comercioapi.csproj" />
+  <Project Path="comercioapp/comercioapp.csproj" />
+  <Project Path="comerciotest/comerciotest.csproj" />
+</Solution>
